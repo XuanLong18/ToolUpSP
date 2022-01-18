@@ -1,0 +1,6 @@
+{
+  "main_products": ["Standard Print Clothing", "Large Print Clothing","Large Print Clothing", "Graphic T-Shirts Stickers & Magnets", "Phone Cases & Skins", "Fitted Masks", "Masks"],
+  "random_products": ["Tablet Cases & Skins", "Tablet Cases & Skins","Spiral Notebooks", "Caps","Phone Wallets"],
+  "default_product": "T-Shirt",
+  "ua_path": "user_agents.txt"
+}
